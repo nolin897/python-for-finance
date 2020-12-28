@@ -3,3 +3,4 @@ numpy
 yfinance
 datetime
 pandas_datareader
+tkinter
